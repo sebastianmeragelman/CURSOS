@@ -1,0 +1,22 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+.virtualenv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Variables de entorno (MUY IMPORTANTE)
+.env
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
